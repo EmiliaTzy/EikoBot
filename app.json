@@ -1,16 +1,16 @@
 {
-      "name": "Emilia Robot",
+      "name": "Eiko Bot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
          "advance",
          "group",
          "manager",
-         "emiliarobot"
+         "eikobot"
       ],
     
    "logo":    "https://telegra.ph/file/11f504a9cea11e9f63629.jpg",  
-   "repository": "https://github.com/EmiliaTzy/EmiliaRobot",
+   "repository": "https://github.com/EmiliaTzy/EikoBot",
    "addons": [
           {
          "options": {
@@ -79,12 +79,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "excrybaby"
+         "value": "tth_kiya98"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "emikosupport"
+         "value": "eikosupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -201,7 +201,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://www.paypal.me/arrul93"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
