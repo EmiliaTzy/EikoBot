@@ -1,2 +1,0 @@
-# EikoBot
-t.me/CatatanAzDay
